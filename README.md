@@ -5,8 +5,10 @@
 <a href="https://www.linkedin.com/in/jos%C3%A9-francisco-santos-salazar-262020175/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
+<a href="mailto:josejfss98@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </p>
-
 ## Sobre mí
 Recientemente cerré PENSUM de la carrera de Ingeniería en Ciencias y Sistemas de la Universidad de San Carlos de Guatemala, donde adquirí sólidas bases en programación, bases de datos, algoritmos, estructuras de datos y sistemas operativos.
 
@@ -28,6 +30,8 @@ Recientemente cerré PENSUM de la carrera de Ingeniería en Ciencias y Sistemas 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=josejfss&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
 
 <!--
 **josejfss/josejfss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
